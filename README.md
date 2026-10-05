@@ -33,7 +33,7 @@ fredy@github:~$ ls ~/links
 
 <p>
   <a href="https://fredy-garcia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fredy-alexander-garc%C3%ADa-sicajau-2169253a0"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/fredy-alexander-garc%C3%ADa-sicajau-2169253a0"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn" /></a>
   <a href="mailto:alexander.garcia.sicajau@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email" /></a>
   <a href="https://www.instagram.com/mr.g4rcia_0"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C" alt="Instagram" /></a>
 </p>
